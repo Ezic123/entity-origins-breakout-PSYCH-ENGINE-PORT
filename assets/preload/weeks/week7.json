@@ -1,0 +1,31 @@
+{
+	"storyName": "psych engine port",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "entity",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"experimental-phase",
+			"daidem",
+			[
+				0,
+				193,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
