@@ -526,7 +526,7 @@ class PlayState extends MusicBeatState
 				limoKillingState = 0;
 
 			case 'entity_stage': //entity shit
-			    var bg:BGSprite = new BGSprite('entity_stage/Stage_LayerBack', -600, -200, 0.9, 0.9);
+			        var bg:BGSprite = new BGSprite('entity_stage/Stage_LayerBack', -600, -200, 0.9, 0.9);
 				add(bg); // fuck fuck
 
 				var stageFront:BGSprite = new BGSprite('entity_stage/Stage_LayerTop', -600, -200, 0.9, 0.9);
